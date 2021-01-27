@@ -1,1 +1,2 @@
-# oberon0
+# Wirth's Oberon-0
+
